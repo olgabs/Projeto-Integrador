@@ -17,4 +17,4 @@ Angular
 Bootstrap
 VS Code
 Back-end
-O nosso back-end foi feito em Java, utilizando o Framework Spring Boot. O banco de dados foi o MySQL e também utilizamos o PostgreSQL para o deploy realizado no Heroku.![UntitledProjetoIntegrador](https://user-images.githubusercontent.com/93311817/167701568-f06b94b2-d138-47d6-a0e7-62f4fe593714.png)
+
